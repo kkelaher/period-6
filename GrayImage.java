@@ -1,6 +1,6 @@
 /**
  * The GrayImage class for FRQ #4 2012.
- *ayyylmao
+ *ayyylmao asdgsdfg
  * @author (your name)
  * @version (a version number or a date)
  */
